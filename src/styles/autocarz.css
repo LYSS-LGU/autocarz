@@ -65,3 +65,12 @@ button {
   border: 1px solid #ccc;
   border-radius: 8px;
 }
+
+#its-status {
+  background: #f5faff;
+  border: 1px solid #b3d8ff;
+  border-radius: 8px;
+  padding: 12px;
+  margin-top: 20px;
+  font-size: 14px;
+}

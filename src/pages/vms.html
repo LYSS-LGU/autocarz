@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>도로전광표지(VMS) 정보</title>
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        margin: 20px;
+        background-color: #f4f7f6;
+        color: #333;
+      }
+      h1 {
+        color: #007bff;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      .container {
+        max-width: 800px;
+        margin: auto;
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+      }
+      .input-group {
+        margin-bottom: 15px;
+        display: flex;
+        align-items: center;
+      }
+      .input-group label {
+        width: 120px;
+        font-weight: bold;
+        color: #555;
+        margin-right: 15px;
+      }
+      .input-group input[type="text"],
+      .input-group select {
+        flex-grow: 1;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        font-size: 1em;
+      }
+      button {
+        padding: 12px 25px;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 1.1em;
+        font-weight: bold;
+        margin-top: 20px;
+        display: block;
+        width: 100%;
+        transition: background-color 0.3s ease;
+      }
+      button:hover {
+        background-color: #218838;
+      }
+      .result-section {
+        margin-top: 30px;
+        border-top: 2px solid #eee;
+        padding-top: 20px;
+      }
+      .result-section h2 {
+        color: #007bff;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+      }
+      pre {
+        background-color: #e9ecef;
+        padding: 15px;
+        border-radius: 8px;
+        overflow-x: auto;
+        white-space: pre-wrap;
+        word-break: break-all;
+        max-height: 300px;
+      }
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+      ul li {
+        background-color: #f9f9f9;
+        border: 1px solid #eee;
+        margin-bottom: 10px;
+        padding: 15px;
+        border-radius: 8px;
+        line-height: 1.6;
+      }
+      ul li strong {
+        color: #0056b3;
+      }
+      .loading {
+        text-align: center;
+        font-size: 1.2em;
+        color: #6c757d;
+        margin-top: 20px;
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>🚦 도로전광표지(VMS) 정보 조회</h1>
+      <p>ITS 국가교통정보센터에서 제공하는 VMS 정보를 조회해 보세요!</p>
+
+      <div class="input-group">
+        <label for="apiKey">API Key:</label>
+        <input
+          type="text"
+          id="apiKey"
+          value="발급받은 API 키를 여기에 입력하세요"
+        />
+      </div>
+
+      <div class="input-group">
+        <label for="roadType">도로 유형:</label>
+        <select id="roadType">
+          <option value="국도">국도</option>
+          <option value="고속도로">고속도로</option>
+        </select>
+      </div>
+
+      <div class="input-group">
+        <label for="routeNo">노선 번호:</label>
+        <input
+          type="text"
+          id="routeNo"
+          value="001"
+          placeholder="예: 001 (경부선), 002 (남해선)"
+        />
+      </div>
+
+      <div class="input-group">
+        <label for="directionType">도로 방향:</label>
+        <select id="directionType">
+          <option value="all">전체</option>
+          <option value="up">상행</option>
+          <option value="down">하행</option>
+          <option value="start">시점</option>
+          <option value="end">종점</option>
+        </select>
+      </div>
+
+      <div class="input-group">
+        <label for="responseFormat">응답 형식:</label>
+        <select id="responseFormat">
+          <option value="xml">XML</option>
+          <option value="json">JSON</option>
+        </select>
+      </div>
+
+      <button id="fetchVMSButton">VMS 정보 가져오기</button>
+
+      <div id="loading" class="loading">데이터를 불러오는 중입니다...</div>
+
+      <div class="result-section">
+        <h2>원시(Raw) API 응답</h2>
+        <pre id="rawResponse"></pre>
+      </div>
+
+      <div class="result-section">
+        <h2>파싱된 VMS 정보</h2>
+        <ul id="parsedVMSList">
+          <li>여기에 VMS 정보가 표시됩니다.</li>
+        </ul>
+      </div>
+    </div>
+
+    <script src="vms.js"></script>
+  </body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>AutoCarz CCTV</title>
+    <link rel="stylesheet" href="../styles/autocarz.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+      #cctv-preview img {
+        margin-top: 10px;
+        border: 1px solid #ccc;
+      }
+      #cctv-list img {
+        margin-top: 5px;
+      }
+      .section {
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="autocarz.html">📍 GPS</a> |
+        <a href="cctv.html"><strong>🎥 CCTV</strong></a>
+      </nav>
+    </header>
+
+    <main>
+      <h1>🎥 실시간 CCTV 화상자료</h1>
+
+    <!-- 🔄 노선 선택 -->
+        <div class="filter-group">
+            <label for="route-select" style="margin-left: 20px">노선 선택:</label>
+            <select id="route-select">
+                <option value="">노선을 선택하세요</option>
+            </select>
+        </div>
+
+        <!-- 🎯 지역 선택 (노선 선택 시 자동 채움) -->
+        <div class="filter-group">
+            <label for="area-select" style="margin-left: 20px">지역 선택:</label>
+            <select id="area-select" disabled> <option value="">지역을 선택하세요</option>
+            </select>
+        </div>
+
+
+        <!-- CCTV 유형 선택 -->
+        <label for="cctv-type" style="margin-left: 20px">CCTV 유형:</label>
+        <select id="cctv-type">
+          <option value="1">1: 실시간 스트리밍(HLS)</option>
+          <option value="2">2: 동영상(mp4)</option>
+          <option value="3" selected>3: 정지 영상</option>
+          <option value="4">4: 스트리밍(HLS, HTTPS)</option>
+          <option value="5">5: 동영상(mp4, HTTPS)</option>
+        </select>
+      </fieldset>
+
+      <!-- ✅ 로딩 메시지 추가 -->
+      <div id="loading" class="section" style="display: none">
+        🔄 CCTV 데이터를 불러오는 중입니다...
+      </div>
+
+      <!-- 지도 -->
+      <div id="cctv-map" style="height: 400px; margin-top: 20px"></div>
+
+      <!-- 썸네일 리스트 -->
+      <div id="cctv-list" class="section"></div>
+
+      <!-- CCTV 영상 미리보기 -->
+      <div id="cctv-preview" class="section"></div>
+    </main>
+
+    <script type="module" src="../js/cctv.js"></script>
+  </body>
+</html>

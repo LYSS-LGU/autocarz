@@ -3,12 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <title>AutoCarz Dashboard</title>
+    <header>
+      <nav>
+        <a href="autocarz.html"><strong>📍 GPS</strong></a> |
+        <a href="cctv.html">🎥 CCTV</a>
+      </nav>
+    </header>
 
     <!-- 공통 스타일 -->
-    <link rel="stylesheet" href="autocarz.css" />
-
-    <!-- Leaflet 지도 전용 스타일 -->
-    <link rel="stylesheet" href="leaflet-style.css" />
+    <link rel="stylesheet" href="../styles/autocarz.css" />
+    <link rel="stylesheet" href="../styles/leaflet-style.css" />
 
     <!-- Leaflet 라이브러리 -->
     <link
@@ -16,145 +20,34 @@
       href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
-    <!-- 카카오맵 API (JavaScript 키 필요) -->
-    <script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=c739c0f81dfa880de4e29da416515953"></script>
   </head>
   <body>
     <h1>🚗 AutoCarz 대시보드</h1>
 
-    <!-- 🔄 카메라 + 지도 + 타임라인 좌우배치 -->
     <div class="map-row">
-      <!-- 🔴 왼쪽: 카메라 -->
       <div class="left-panel">
         <h2>카메라 미리보기</h2>
         <video id="camera" autoplay muted></video>
         <br />
-        <button onclick="toggleCamera()">카메라 On/Off</button>
-        <button onclick="capturePhoto()">📸 사진 찍기</button>
+        <button id="toggleBtn">카메라 On/Off</button>
+        <button id="captureBtn">📸 사진 찍기</button>
         <canvas id="snapshot" style="display: none"></canvas>
       </div>
 
-      <!-- 🗺 오른쪽: 지도 + 타임라인 -->
       <div class="right-panel">
-        <h2>카카오맵 - 현재 위치</h2>
-        <div id="kakaomap"></div>
-
         <h2>🦊 야생동물 경고 지도 (Leaflet)</h2>
         <div id="leafletmap"></div>
 
         <h2>📍 사진 촬영 위치 타임라인</h2>
         <div id="photo-location-list"></div>
+        <div id="its-status" class="section">
+          <h2>🛰 ITS API 상태</h2>
+          <div id="its-status-message">불러오는 중...</div>
+        </div>
       </div>
     </div>
 
-    <!-- 📷 카메라 및 위치 연동 -->
-    <script>
-      let stream = null;
-      let leafletMap;
-
-      async function toggleCamera() {
-        const video = document.getElementById("camera");
-        if (!stream) {
-          try {
-            stream = await navigator.mediaDevices.getUserMedia({ video: true });
-            video.srcObject = stream;
-          } catch (e) {
-            alert("카메라 접근이 차단되었습니다.");
-          }
-        } else {
-          stream.getTracks().forEach((track) => track.stop());
-          video.srcObject = null;
-          stream = null;
-        }
-      }
-
-      function capturePhoto() {
-        const video = document.getElementById("camera");
-        const canvas = document.getElementById("snapshot");
-        const context = canvas.getContext("2d");
-
-        canvas.width = video.videoWidth;
-        canvas.height = video.videoHeight;
-        context.drawImage(video, 0, 0, canvas.width, canvas.height);
-
-        // 🟡 여기에 음성 경고 + 진동 추가
-        const message = new SpeechSynthesisUtterance(
-          "신고 접수가 완료 되었습니다. 오늘 하루도 고생하셨습니다."
-        );
-        message.lang = "ko-KR";
-        window.speechSynthesis.speak(message);
-
-        if (navigator.vibrate) {
-          navigator.vibrate([300, 100, 300]);
-        }
-
-        // GPS + 마커 표시
-        navigator.geolocation.getCurrentPosition((pos) => {
-          const lat = parseFloat(pos.coords.latitude.toFixed(6));
-          const lon = parseFloat(pos.coords.longitude.toFixed(6));
-          const timestamp = new Date().toLocaleString();
-
-          // 타임라인 표시
-          const entry = document.createElement("div");
-          entry.className = "photo-log-entry";
-          entry.innerText = `📸 [${timestamp}] 위도: ${lat}, 경도: ${lon}`;
-          document.getElementById("photo-location-list").prepend(entry);
-
-          // Leaflet 지도 마커 + 경고 반경
-          if (leafletMap) {
-            const latlng = [lat, lon];
-
-            L.marker(latlng)
-              .addTo(leafletMap)
-              .bindPopup("🦊 야생동물 발견 위치")
-              .openPopup();
-
-            L.circle(latlng, {
-              color: "red",
-              fillColor: "#f03",
-              fillOpacity: 0.3,
-              radius: 3000,
-            }).addTo(leafletMap);
-
-            L.circle(latlng, {
-              color: "orange",
-              fillColor: "#fa0",
-              fillOpacity: 0.15,
-              radius: 5000,
-            }).addTo(leafletMap);
-
-            leafletMap.setView(latlng, 13);
-          }
-        });
-      }
-    </script>
-
-    <!-- 🧭 카카오맵 연동 -->
-    <script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=c739c0f81dfa880de4e29da416515953"></script>
-    <script>
-      navigator.geolocation.getCurrentPosition((pos) => {
-        const lat = pos.coords.latitude;
-        const lon = pos.coords.longitude;
-        const container = document.getElementById("kakaomap");
-        const options = {
-          center: new kakao.maps.LatLng(lat, lon),
-          level: 3,
-        };
-        const map = new kakao.maps.Map(container, options);
-        new kakao.maps.Marker({
-          position: new kakao.maps.LatLng(lat, lon),
-          map: map,
-        });
-      });
-
-      // Leaflet 지도 초기화
-      window.addEventListener("DOMContentLoaded", () => {
-        leafletMap = L.map("leafletmap").setView([37.5665, 126.978], 16);
-        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-          attribution: "© OpenStreetMap contributors",
-        }).addTo(leafletMap);
-      });
-    </script>
+    <!-- ✅ JS 모듈: 지도 기능 담당 -->
+    <script type="module" src="../js/map.js"></script>
   </body>
 </html>

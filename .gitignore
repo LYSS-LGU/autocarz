@@ -4,3 +4,33 @@ api/itsapi.env
 # .env.example
 API_KEY=your_api_key_here
 api/itsapi.env
+
+
+# .env 환경 변수 파일 무시
+api/itsapi.env
+
+# 파이썬 캐시 및 기타 무시할 파일들
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter 자동 저장파일
+*.ipynb~
+
+# node_modules (필요시)
+node_modules/
+
+
+# 환경변수 파일
+.env
+*.env
+
+# 시스템/IDE 파일
+.DS_Store
+node_modules/
+.vscode/
+__pycache__/
+
+# 빌드 파일
+dist/
+build/
