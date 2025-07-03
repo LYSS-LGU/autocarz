@@ -1,0 +1,67 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+video,
+#kakaomap {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+button {
+  padding: 10px 15px;
+  margin-top: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#photo-location {
+  background: #f3f3f3;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+}
+
+#photo-location-list {
+  background: #fdfdfd;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 8px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.photo-log-entry {
+  padding: 6px 8px;
+  border-bottom: 1px dashed #ccc;
+  font-size: 14px;
+}
+
+.map-row {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.left-panel,
+.right-panel {
+  flex: 1;
+  min-width: 300px;
+}
+
+.left-panel video,
+.right-panel #kakaomap {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}

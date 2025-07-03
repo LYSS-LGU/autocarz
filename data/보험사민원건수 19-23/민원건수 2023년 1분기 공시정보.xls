@@ -1,0 +1,2504 @@
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+	.tbBox table{border:1px solid #565656; border-left:1px solid #cdd7de; border-right:0; table-layout:fixed;}
+	.tbBox table th{font-weight:400; background:#eaf4ff; border-bottom:1px solid #cdd7de; border-right:1px solid #cdd7de; padding:5px 0; letter-spacing:-0.5px;}
+	.tbBox table td{border-bottom:1px solid #cdd7de; border-right:1px solid #cdd7de; padding:5px 7px; letter-spacing:-0.5px;}
+	.tbBox table td a.comBlue{color:#118acb; text-decoration:underline;}
+	.tbBox table td a.txtGray{text-decoration:underline;}
+</style>
+<h2> 민원건수 공시정보</h2>
+<h3>2023년 1분기</h3>
+<h3>1. 민원건수</h3>
+<div class="tbBox">
+	<table id="table1"  border="1">
+		<colgroup>
+			<col style="width:120px" />
+			<col style="width:70px" />
+			<col style="width:50px" />
+			<col style="width:50px" />
+			<col style="width:85px" />
+			<col style="width:50px" />
+			<col style="width:50px" />
+			<col style="width:85px" />
+			<col style="width:100px" />
+		</colgroup>
+		<thead>
+			<tr>
+				<th colspan="2" rowspan="2"  style="background-color:#eaf4ff">구분</th>
+				<th colspan="3" style="background-color:#eaf4ff">민원건수</th>
+				<th colspan="3" style="background-color:#eaf4ff">환산건수<br />(보유계약 십만건 당)</th>
+				<th rowspan="2"  style="background-color:#eaf4ff">비고</th>
+			</tr>
+			<tr>
+				<th>전분기</th>
+				<th>당분기</th>
+				<th>증감률(%)</th>
+				<th>전분기</th>
+				<th>당분기</th>
+				<th>증감률(%)</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					메리츠화재
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">553</td>
+				<td class="ar">522</td>
+				<td class="ar">-5.61</td>
+				<td class="ar">3.61</td>
+				<td class="ar">3.37</td>
+				<td class="ar">-6.60</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">1,068</td>
+				<td class="ar">1,254</td>
+				<td class="ar">17.42</td>
+				<td class="ar">6.97</td>
+				<td class="ar">8.10</td>
+				<td class="ar">16.18</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">1,621</td>
+				<td class="ar">1,776</td>
+				<td class="ar">9.56</td>
+				<td class="ar">10.58</td>
+				<td class="ar">11.47</td>									
+				<td class="ar">8.41</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					한화손보
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">223</td>
+				<td class="ar">180</td>
+				<td class="ar">-19.28</td>
+				<td class="ar">3.03</td>
+				<td class="ar">2.43</td>
+				<td class="ar">-19.8</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">427</td>
+				<td class="ar">383</td>
+				<td class="ar">-10.3</td>
+				<td class="ar">5.81</td>
+				<td class="ar">5.17</td>
+				<td class="ar">-11.02</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">650</td>
+				<td class="ar">563</td>
+				<td class="ar">-13.38</td>
+				<td class="ar">8.84</td>
+				<td class="ar">7.59</td>									
+				<td class="ar">-14.14</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					롯데손보
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">77</td>
+				<td class="ar">80</td>
+				<td class="ar">3.9</td>
+				<td class="ar">2.41</td>
+				<td class="ar">2.43</td>
+				<td class="ar">0.83</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">259</td>
+				<td class="ar">269</td>
+				<td class="ar">3.86</td>
+				<td class="ar">8.10</td>
+				<td class="ar">8.17</td>
+				<td class="ar">0.86</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">336</td>
+				<td class="ar">349</td>
+				<td class="ar">3.87</td>
+				<td class="ar">10.50</td>
+				<td class="ar">10.60</td>									
+				<td class="ar">0.95</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					MG손보
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">59</td>
+				<td class="ar">37</td>
+				<td class="ar">-37.29</td>
+				<td class="ar">3.69</td>
+				<td class="ar">2.32</td>
+				<td class="ar">-37.13</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">210</td>
+				<td class="ar">188</td>
+				<td class="ar">-10.48</td>
+				<td class="ar">13.15</td>
+				<td class="ar">11.81</td>
+				<td class="ar">-10.19</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">269</td>
+				<td class="ar">225</td>
+				<td class="ar">-16.36</td>
+				<td class="ar">16.84</td>
+				<td class="ar">14.13</td>									
+				<td class="ar">-16.09</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					흥국화재
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">96</td>
+				<td class="ar">87</td>
+				<td class="ar">-9.38</td>
+				<td class="ar">2.20</td>
+				<td class="ar">2.00</td>
+				<td class="ar">-9.22</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">403</td>
+				<td class="ar">342</td>
+				<td class="ar">-15.14</td>
+				<td class="ar">9.24</td>
+				<td class="ar">7.85</td>
+				<td class="ar">-14.99</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">499</td>
+				<td class="ar">429</td>
+				<td class="ar">-14.03</td>
+				<td class="ar">11.44</td>
+				<td class="ar">9.85</td>									
+				<td class="ar">-13.88</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					삼성화재
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">850</td>
+				<td class="ar">811</td>
+				<td class="ar">-4.59</td>
+				<td class="ar">3.06</td>
+				<td class="ar">2.87</td>
+				<td class="ar">-6.21</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">1,378</td>
+				<td class="ar">1,377</td>
+				<td class="ar">-0.07</td>
+				<td class="ar">4.95</td>
+				<td class="ar">4.86</td>
+				<td class="ar">-1.82</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">2,228</td>
+				<td class="ar">2,188</td>
+				<td class="ar">-1.80</td>
+				<td class="ar">8.01</td>
+				<td class="ar">7.73</td>									
+				<td class="ar">-3.50</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					현대해상
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">792</td>
+				<td class="ar">796</td>
+				<td class="ar">0.51</td>
+				<td class="ar">3.81</td>
+				<td class="ar">3.79</td>
+				<td class="ar">-0.59</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">1,332</td>
+				<td class="ar">1,235</td>
+				<td class="ar">-7.28</td>
+				<td class="ar">6.41</td>
+				<td class="ar">5.88</td>
+				<td class="ar">-8.29</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">2,124</td>
+				<td class="ar">2,031</td>
+				<td class="ar">-4.38</td>
+				<td class="ar">10.22</td>
+				<td class="ar">9.67</td>									
+				<td class="ar">-5.42</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					KB손보
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">618</td>
+				<td class="ar">696</td>
+				<td class="ar">12.62</td>
+				<td class="ar">3.83</td>
+				<td class="ar">4.26</td>
+				<td class="ar">11.23</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">1,291</td>
+				<td class="ar">1,355</td>
+				<td class="ar">4.96</td>
+				<td class="ar">8.01</td>
+				<td class="ar">8.28</td>
+				<td class="ar">3.37</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">1,909</td>
+				<td class="ar">2,051</td>
+				<td class="ar">7.44</td>
+				<td class="ar">11.84</td>
+				<td class="ar">12.54</td>									
+				<td class="ar">5.91</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					DB손보
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">614</td>
+				<td class="ar">601</td>
+				<td class="ar">-2.12</td>
+				<td class="ar">2.84</td>
+				<td class="ar">2.74</td>
+				<td class="ar">-3.52</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">1,361</td>
+				<td class="ar">1,264</td>
+				<td class="ar">-7.13</td>
+				<td class="ar">6.28</td>
+				<td class="ar">5.76</td>
+				<td class="ar">-8.28</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">1,975</td>
+				<td class="ar">1,865</td>
+				<td class="ar">-5.57</td>
+				<td class="ar">9.12</td>
+				<td class="ar">8.50</td>									
+				<td class="ar">-6.8</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					서울보증
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">16</td>
+				<td class="ar">14</td>
+				<td class="ar">-12.5</td>
+				<td class="ar">0.05</td>
+				<td class="ar">0.04</td>
+				<td class="ar">-20</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">57</td>
+				<td class="ar">67</td>
+				<td class="ar">17.54</td>
+				<td class="ar">0.18</td>
+				<td class="ar">0.21</td>
+				<td class="ar">16.67</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">73</td>
+				<td class="ar">81</td>
+				<td class="ar">10.96</td>
+				<td class="ar">0.23</td>
+				<td class="ar">0.26</td>									
+				<td class="ar">13.04</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					AXA손보
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">110</td>
+				<td class="ar">120</td>
+				<td class="ar">9.09</td>
+				<td class="ar">5.28</td>
+				<td class="ar">5.78</td>
+				<td class="ar">9.56</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">115</td>
+				<td class="ar">143</td>
+				<td class="ar">24.35</td>
+				<td class="ar">5.52</td>
+				<td class="ar">6.89</td>
+				<td class="ar">24.88</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">225</td>
+				<td class="ar">263</td>
+				<td class="ar">16.89</td>
+				<td class="ar">10.79</td>
+				<td class="ar">12.67</td>									
+				<td class="ar">17.39</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					하나손보
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">12</td>
+				<td class="ar">15</td>
+				<td class="ar">25</td>
+				<td class="ar">1.34</td>
+				<td class="ar">1.43</td>
+				<td class="ar">6.72</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">77</td>
+				<td class="ar">61</td>
+				<td class="ar">-20.78</td>
+				<td class="ar">8.60</td>
+				<td class="ar">5.84</td>
+				<td class="ar">-32.09</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">89</td>
+				<td class="ar">76</td>
+				<td class="ar">-14.61</td>
+				<td class="ar">9.94</td>
+				<td class="ar">7.27</td>									
+				<td class="ar">-26.86</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					AIG손보
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">17</td>
+				<td class="ar">7</td>
+				<td class="ar">-58.82</td>
+				<td class="ar">1.19</td>
+				<td class="ar">0.50</td>
+				<td class="ar">-58.37</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">56</td>
+				<td class="ar">53</td>
+				<td class="ar">-5.36</td>
+				<td class="ar">3.93</td>
+				<td class="ar">3.76</td>
+				<td class="ar">-4.32</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">73</td>
+				<td class="ar">60</td>
+				<td class="ar">-17.81</td>
+				<td class="ar">5.12</td>
+				<td class="ar">4.25</td>									
+				<td class="ar">-16.91</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					라이나손보(에이스손보)
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">5</td>
+				<td class="ar">6</td>
+				<td class="ar">20</td>
+				<td class="ar">0.23</td>
+				<td class="ar">0.28</td>
+				<td class="ar">22.25</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">50</td>
+				<td class="ar">51</td>
+				<td class="ar">2</td>
+				<td class="ar">2.30</td>
+				<td class="ar">2.39</td>
+				<td class="ar">3.91</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">55</td>
+				<td class="ar">57</td>
+				<td class="ar">3.64</td>
+				<td class="ar">2.53</td>
+				<td class="ar">2.67</td>									
+				<td class="ar">5.53</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					신한EZ손해보험
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">2</td>
+				<td class="ar">2</td>
+				<td class="ar">0</td>
+				<td class="ar">2.95</td>
+				<td class="ar">2.97</td>
+				<td class="ar">0.68</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">1</td>
+				<td class="ar">1</td>
+				<td class="ar">0</td>
+				<td class="ar">1.47</td>
+				<td class="ar">1.48</td>
+				<td class="ar">0.68</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">3</td>
+				<td class="ar">3</td>
+				<td class="ar">0</td>
+				<td class="ar">4.42</td>
+				<td class="ar">4.45</td>									
+				<td class="ar">0.68</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					캐롯손해보험
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">4</td>
+				<td class="ar">7</td>
+				<td class="ar">75</td>
+				<td class="ar">0.71</td>
+				<td class="ar">1.16</td>
+				<td class="ar">63.38</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">85</td>
+				<td class="ar">68</td>
+				<td class="ar">-20</td>
+				<td class="ar">15.10</td>
+				<td class="ar">11.26</td>
+				<td class="ar">-25.43</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">89</td>
+				<td class="ar">75</td>
+				<td class="ar">-15.73</td>
+				<td class="ar">15.81</td>
+				<td class="ar">12.42</td>									
+				<td class="ar">-21.44</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="3" class="ac">
+					농협손보
+				</td>
+				<td class="ac">자체민원</td>
+				<td class="ar">32</td>
+				<td class="ar">57</td>
+				<td class="ar">78.13</td>
+				<td class="ar">0.78</td>
+				<td class="ar">1.39</td>
+				<td class="ar">78.21</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">대외민원</td>
+				<td class="ar">127</td>
+				<td class="ar">119</td>
+				<td class="ar">-6.3</td>
+				<td class="ar">3.11</td>
+				<td class="ar">2.90</td>
+				<td class="ar">-6.75</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td> 
+				<td class="ar">159</td>
+				<td class="ar">176</td>
+				<td class="ar">10.69</td>
+				<td class="ar">3.89</td>
+				<td class="ar">4.29</td>									
+				<td class="ar">10.28</td>
+				<td></td>
+			</tr>
+			
+		</tbody>
+	</table>
+</div>
+<h3>2. 유형별</h3>
+<div class="tbBox">
+	<table>
+		<colgroup>
+			<col style="width:120px" />
+			<col style="width:70px" />
+			<col style="width:50px" />
+			<col style="width:50px" />
+			<col style="width:85px" />
+			<col style="width:50px" />
+			<col style="width:50px" />
+			<col style="width:85px" />
+			<col style="width:100px" />
+		</colgroup>
+		<thead>
+			<tr>
+				<th colspan="2" rowspan="2">구분</th>
+				<th colspan="3">민원건수</th>
+				<th colspan="3">환산건수<br />(보유계약 십만건 당)</th>
+				<th rowspan="2">비고</th>
+			</tr>
+			<tr>
+				<th>전분기</th>
+				<th>당분기</th>
+				<th>증감률(%)</th>
+				<th>전분기</th>
+				<th>당분기</th>
+				<th>증감률(%)</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+			<tr>
+				<td rowspan="5" class="ac">메리츠화재</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">125</td>
+				<td class="ar">183</td>
+				<td class="ar">46.40</td>
+				<td class="ar">0.82</td>
+				<td class="ar">1.18</td>
+				<td class="ar">44.86</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">136</td>
+				<td class="ar">136</td>
+				<td class="ar">0</td>
+				<td class="ar">0.89</td>
+				<td class="ar">0.88</td>
+				<td class="ar">-1.05</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">1,289</td>
+				<td class="ar">1,265</td>
+				<td class="ar">-1.86</td>
+				<td class="ar">8.41</td>
+				<td class="ar">8.17</td>
+				<td class="ar">-2.89</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">71</td>
+				<td class="ar">192</td>
+				<td class="ar">170.42</td>
+				<td class="ar">0.46</td>
+				<td class="ar">1.24</td>
+				<td class="ar">167.58</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">1,621</td>
+				<td class="ar">1,776</td>
+				<td class="ar">9.56</td>
+				<td class="ar">10.58</td>
+				<td class="ar">11.47</td>
+				<td class="ar">8.41</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">한화손보</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">66</td>
+				<td class="ar">52</td>
+				<td class="ar">-21.21</td>
+				<td class="ar">.9</td>
+				<td class="ar">.7</td>
+				<td class="ar">-22.22</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">96</td>
+				<td class="ar">87</td>
+				<td class="ar">-9.37</td>
+				<td class="ar">1.31</td>
+				<td class="ar">1.17</td>
+				<td class="ar">-10.69</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">465</td>
+				<td class="ar">414</td>
+				<td class="ar">-10.97</td>
+				<td class="ar">6.32</td>
+				<td class="ar">5.58</td>
+				<td class="ar">-11.71</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">23</td>
+				<td class="ar">10</td>
+				<td class="ar">-56.52</td>
+				<td class="ar">.31</td>
+				<td class="ar">.13</td>
+				<td class="ar">-58.06</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">650</td>
+				<td class="ar">563</td>
+				<td class="ar">-13.38</td>
+				<td class="ar">8.84</td>
+				<td class="ar">7.59</td>
+				<td class="ar">-14.14</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">롯데손보</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">18</td>
+				<td class="ar">43</td>
+				<td class="ar">138.89</td>
+				<td class="ar">0.56</td>
+				<td class="ar">1.31</td>
+				<td class="ar">133.93</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">64</td>
+				<td class="ar">82</td>
+				<td class="ar">28.13</td>
+				<td class="ar">2.00</td>
+				<td class="ar">2.49</td>
+				<td class="ar">24.5</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">248</td>
+				<td class="ar">209</td>
+				<td class="ar">-15.73</td>
+				<td class="ar">7.75</td>
+				<td class="ar">6.35</td>
+				<td class="ar">-18.06</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">6</td>
+				<td class="ar">15</td>
+				<td class="ar">150</td>
+				<td class="ar">0.19</td>
+				<td class="ar">0.46</td>
+				<td class="ar">142.11</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">336</td>
+				<td class="ar">349</td>
+				<td class="ar">3.87</td>
+				<td class="ar">10.50</td>
+				<td class="ar">10.60</td>
+				<td class="ar">0.95</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">MG손보</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">15</td>
+				<td class="ar">12</td>
+				<td class="ar">-20</td>
+				<td class="ar">0.94</td>
+				<td class="ar">0.75</td>
+				<td class="ar">-20.21</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">21</td>
+				<td class="ar">30</td>
+				<td class="ar">42.86</td>
+				<td class="ar">1.31</td>
+				<td class="ar">1.88</td>
+				<td class="ar">43.51</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">225</td>
+				<td class="ar">177</td>
+				<td class="ar">-21.33</td>
+				<td class="ar">14.09</td>
+				<td class="ar">11.12</td>
+				<td class="ar">-21.08</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">8</td>
+				<td class="ar">6</td>
+				<td class="ar">-25</td>
+				<td class="ar">0.50</td>
+				<td class="ar">0.38</td>
+				<td class="ar">-24</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">269</td>
+				<td class="ar">225</td>
+				<td class="ar">-16.36</td>
+				<td class="ar">16.84</td>
+				<td class="ar">14.13</td>
+				<td class="ar">-16.09</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">흥국화재</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">31</td>
+				<td class="ar">7</td>
+				<td class="ar">-77.42</td>
+				<td class="ar">0.71</td>
+				<td class="ar">0.16</td>
+				<td class="ar">-77.38</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">60</td>
+				<td class="ar">66</td>
+				<td class="ar">10.00</td>
+				<td class="ar">1.38</td>
+				<td class="ar">1.52</td>
+				<td class="ar">10.19</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">398</td>
+				<td class="ar">345</td>
+				<td class="ar">-13.32</td>
+				<td class="ar">9.12</td>
+				<td class="ar">7.92</td>
+				<td class="ar">-13.17</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">10</td>
+				<td class="ar">11</td>
+				<td class="ar">10.00</td>
+				<td class="ar">0.23</td>
+				<td class="ar">0.25</td>
+				<td class="ar">10.19</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">499</td>
+				<td class="ar">429</td>
+				<td class="ar">-14.03</td>
+				<td class="ar">11.44</td>
+				<td class="ar">9.85</td>
+				<td class="ar">-13.88</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">삼성화재</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">126</td>
+				<td class="ar">123</td>
+				<td class="ar">-2.38</td>
+				<td class="ar">0.45</td>
+				<td class="ar">0.43</td>
+				<td class="ar">-4.44</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">166</td>
+				<td class="ar">166</td>
+				<td class="ar">0.00</td>
+				<td class="ar">0.60</td>
+				<td class="ar">0.59</td>
+				<td class="ar">-1.67</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">1,879</td>
+				<td class="ar">1,855</td>
+				<td class="ar">-1.28</td>
+				<td class="ar">6.75</td>
+				<td class="ar">6.55</td>
+				<td class="ar">-2.96</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">57</td>
+				<td class="ar">44</td>
+				<td class="ar">-22.81</td>
+				<td class="ar">0.21</td>
+				<td class="ar">0.16</td>
+				<td class="ar">-23.81</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">2,228</td>
+				<td class="ar">2,188</td>
+				<td class="ar">-1.80</td>
+				<td class="ar">8.01</td>
+				<td class="ar">7.73</td>
+				<td class="ar">-3.50</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">현대해상</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">127</td>
+				<td class="ar">112</td>
+				<td class="ar">-11.81</td>
+				<td class="ar">0.61</td>
+				<td class="ar">0.53</td>
+				<td class="ar">-12.77</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">339</td>
+				<td class="ar">394</td>
+				<td class="ar">16.22</td>
+				<td class="ar">1.63</td>
+				<td class="ar">1.88</td>
+				<td class="ar">14.96</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">1,633</td>
+				<td class="ar">1,497</td>
+				<td class="ar">-8.33</td>
+				<td class="ar">7.86</td>
+				<td class="ar">7.13</td>
+				<td class="ar">-9.32</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">25</td>
+				<td class="ar">28</td>
+				<td class="ar">12.00</td>
+				<td class="ar">0.12</td>
+				<td class="ar">0.13</td>
+				<td class="ar">10.78</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">2,124</td>
+				<td class="ar">2,031</td>
+				<td class="ar">-4.38</td>
+				<td class="ar">10.22</td>
+				<td class="ar">9.67</td>
+				<td class="ar">-5.42</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">KB손보</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">128</td>
+				<td class="ar">139</td>
+				<td class="ar">8.59</td>
+				<td class="ar">0.79</td>
+				<td class="ar">0.85</td>
+				<td class="ar">7.59</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">127</td>
+				<td class="ar">119</td>
+				<td class="ar">-6.3</td>
+				<td class="ar">0.79</td>
+				<td class="ar">0.73</td>
+				<td class="ar">-7.59</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">1,516</td>
+				<td class="ar">1,663</td>
+				<td class="ar">9.7</td>
+				<td class="ar">9.4</td>
+				<td class="ar">10.17</td>
+				<td class="ar">8.19</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">138</td>
+				<td class="ar">130</td>
+				<td class="ar">-5.8</td>
+				<td class="ar">0.86</td>
+				<td class="ar">0.79</td>
+				<td class="ar">-8.14</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">1,909</td>
+				<td class="ar">2,051</td>
+				<td class="ar">7.44</td>
+				<td class="ar">11.84</td>
+				<td class="ar">12.54</td>
+				<td class="ar">5.91</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">DB손보</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">156</td>
+				<td class="ar">177</td>
+				<td class="ar">13.46</td>
+				<td class="ar">0.72</td>
+				<td class="ar">0.81</td>
+				<td class="ar">12.5</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">287</td>
+				<td class="ar">217</td>
+				<td class="ar">-24.39</td>
+				<td class="ar">1.33</td>
+				<td class="ar">0.99</td>
+				<td class="ar">-25.56</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">1,406</td>
+				<td class="ar">1,320</td>
+				<td class="ar">-6.12</td>
+				<td class="ar">6.49</td>
+				<td class="ar">6.01</td>
+				<td class="ar">-7.4</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">126</td>
+				<td class="ar">151</td>
+				<td class="ar">19.84</td>
+				<td class="ar">0.58</td>
+				<td class="ar">0.69</td>
+				<td class="ar">18.97</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">1,975</td>
+				<td class="ar">1,865</td>
+				<td class="ar">-5.57</td>
+				<td class="ar">9.12</td>
+				<td class="ar">8.50</td>
+				<td class="ar">-6.8</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">서울보증</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">13</td>
+				<td class="ar">15</td>
+				<td class="ar">15.38</td>
+				<td class="ar">0.04</td>
+				<td class="ar">0.05</td>
+				<td class="ar">25</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">1</td>
+				<td class="ar">7</td>
+				<td class="ar">600</td>
+				<td class="ar">0.00</td>
+				<td class="ar">0.02</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">19</td>
+				<td class="ar">15</td>
+				<td class="ar">-21.05</td>
+				<td class="ar">0.06</td>
+				<td class="ar">0.05</td>
+				<td class="ar">-16.67</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">40</td>
+				<td class="ar">44</td>
+				<td class="ar">10</td>
+				<td class="ar">0.12</td>
+				<td class="ar">0.14</td>
+				<td class="ar">16.67</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">73</td>
+				<td class="ar">81</td>
+				<td class="ar">10.96</td>
+				<td class="ar">0.23</td>
+				<td class="ar">0.26</td>
+				<td class="ar">13.04</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">AXA손보</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">32</td>
+				<td class="ar">45</td>
+				<td class="ar">40.63</td>
+				<td class="ar">1.54</td>
+				<td class="ar">2.17</td>
+				<td class="ar">41.23</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">40</td>
+				<td class="ar">36</td>
+				<td class="ar">-10.00</td>
+				<td class="ar">1.92</td>
+				<td class="ar">1.73</td>
+				<td class="ar">-9.61</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">152</td>
+				<td class="ar">180</td>
+				<td class="ar">18.42</td>
+				<td class="ar">7.29</td>
+				<td class="ar">8.67</td>
+				<td class="ar">18.93</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">1</td>
+				<td class="ar">2</td>
+				<td class="ar">100.00</td>
+				<td class="ar">0.05</td>
+				<td class="ar">0.10</td>
+				<td class="ar">100.86</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">225</td>
+				<td class="ar">263</td>
+				<td class="ar">16.89</td>
+				<td class="ar">10.79</td>
+				<td class="ar">12.67</td>
+				<td class="ar">17.39</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">하나손보</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">16</td>
+				<td class="ar">14</td>
+				<td class="ar">-12.5</td>
+				<td class="ar">1.79</td>
+				<td class="ar">1.34</td>
+				<td class="ar">-25.14</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">14</td>
+				<td class="ar">12</td>
+				<td class="ar">-14.29</td>
+				<td class="ar">1.56</td>
+				<td class="ar">1.15</td>
+				<td class="ar">-26.28</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">58</td>
+				<td class="ar">45</td>
+				<td class="ar">-22.41</td>
+				<td class="ar">6.48</td>
+				<td class="ar">4.31</td>
+				<td class="ar">-33.49</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">1</td>
+				<td class="ar">5</td>
+				<td class="ar">400</td>
+				<td class="ar">0.11</td>
+				<td class="ar">0.48</td>
+				<td class="ar">336.36</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">89</td>
+				<td class="ar">76</td>
+				<td class="ar">-14.61</td>
+				<td class="ar">9.94</td>
+				<td class="ar">7.27</td>
+				<td class="ar">-26.86</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">AIG손보</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">24</td>
+				<td class="ar">21</td>
+				<td class="ar">-12.5</td>
+				<td class="ar">1.68</td>
+				<td class="ar">1.49</td>
+				<td class="ar">-11.54</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">3</td>
+				<td class="ar">10</td>
+				<td class="ar">233.33</td>
+				<td class="ar">0.21</td>
+				<td class="ar">0.71</td>
+				<td class="ar">236.98</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">31</td>
+				<td class="ar">17</td>
+				<td class="ar">-45.16</td>
+				<td class="ar">2.17</td>
+				<td class="ar">1.20</td>
+				<td class="ar">-44.56</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">15</td>
+				<td class="ar">12</td>
+				<td class="ar">-20</td>
+				<td class="ar">1.05</td>
+				<td class="ar">0.85</td>
+				<td class="ar">-19.13</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">73</td>
+				<td class="ar">60</td>
+				<td class="ar">-17.81</td>
+				<td class="ar">5.12</td>
+				<td class="ar">4.25</td>
+				<td class="ar">-16.91</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">라이나손보(에이스손보)</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">20</td>
+				<td class="ar">25</td>
+				<td class="ar">25</td>
+				<td class="ar">0.92</td>
+				<td class="ar">1.17</td>
+				<td class="ar">27.17</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">4</td>
+				<td class="ar">6</td>
+				<td class="ar">50</td>
+				<td class="ar">0.18</td>
+				<td class="ar">0.28</td>
+				<td class="ar">55.56</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">29</td>
+				<td class="ar">23</td>
+				<td class="ar">-20.69</td>
+				<td class="ar">1.33</td>
+				<td class="ar">1.08</td>
+				<td class="ar">-18.8</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">2</td>
+				<td class="ar">3</td>
+				<td class="ar">50</td>
+				<td class="ar">0.09</td>
+				<td class="ar">0.14</td>
+				<td class="ar">55.56</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">55</td>
+				<td class="ar">57</td>
+				<td class="ar">3.64</td>
+				<td class="ar">2.53</td>
+				<td class="ar">2.67</td>
+				<td class="ar">5.53</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">신한EZ손해보험</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">2</td>
+				<td class="ar">0</td>
+				<td class="ar">-100</td>
+				<td class="ar">2.95</td>
+				<td class="ar">0</td>
+				<td class="ar">-100</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">0</td>
+				<td class="ar">2</td>
+				<td class="ar">-</td>
+				<td class="ar">0</td>
+				<td class="ar">2.97</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">1</td>
+				<td class="ar">1</td>
+				<td class="ar">0</td>
+				<td class="ar">1.47</td>
+				<td class="ar">1.48</td>
+				<td class="ar">0.68</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">3</td>
+				<td class="ar">3</td>
+				<td class="ar">0</td>
+				<td class="ar">4.42</td>
+				<td class="ar">4.45</td>
+				<td class="ar">0.68</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">캐롯손해보험</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">4</td>
+				<td class="ar">4</td>
+				<td class="ar">0</td>
+				<td class="ar">0.71</td>
+				<td class="ar">0.66</td>
+				<td class="ar">-7.04</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">13</td>
+				<td class="ar">16</td>
+				<td class="ar">23.08</td>
+				<td class="ar">2.32</td>
+				<td class="ar">2.65</td>
+				<td class="ar">14.22</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">69</td>
+				<td class="ar">51</td>
+				<td class="ar">-26.09</td>
+				<td class="ar">12.25</td>
+				<td class="ar">8.45</td>
+				<td class="ar">-31.02</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">3</td>
+				<td class="ar">4</td>
+				<td class="ar">33.33</td>
+				<td class="ar">0.53</td>
+				<td class="ar">0.66</td>
+				<td class="ar">24.53</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">89</td>
+				<td class="ar">75</td>
+				<td class="ar">-15.73</td>
+				<td class="ar">15.81</td>
+				<td class="ar">12.42</td>
+				<td class="ar">-21.44</td>
+				<td></td> 
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">농협손보</td>
+				<td class="ac">보험모집</td>
+				<td class="ar">29</td>
+				<td class="ar">22</td>
+				<td class="ar">-24.14</td>
+				<td class="ar">0.71</td>
+				<td class="ar">0.54</td>
+				<td class="ar">-23.94</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">유지관리</td>
+				<td class="ar">19</td>
+				<td class="ar">33</td>
+				<td class="ar">73.68</td>
+				<td class="ar">0.46</td>
+				<td class="ar">0.80</td>
+				<td class="ar">73.91</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">보상(보험금)</td>
+				<td class="ar">97</td>
+				<td class="ar">91</td>
+				<td class="ar">-6.19</td>
+				<td class="ar">2.37</td>
+				<td class="ar">2.22</td>
+				<td class="ar">-6.33</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">14</td>
+				<td class="ar">30</td>
+				<td class="ar">114.29</td>
+				<td class="ar">0.34</td>
+				<td class="ar">0.73</td>
+				<td class="ar">114.71</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">합계</td>
+				<td class="ar">159</td>
+				<td class="ar">176</td>
+				<td class="ar">10.69</td>
+				<td class="ar">3.89</td>
+				<td class="ar">4.29</td>
+				<td class="ar">10.28</td>
+				<td></td> 
+			</tr>
+			
+		</tbody>
+	</table>
+</div>
+
+<h3>3. 상품별</h3>
+<div class="tbBox">
+	<table id="table1"  border="1">
+		<colgroup>
+			<col style="width:120px" />
+			<col style="width:70px" />
+			<col style="width:50px" />
+			<col style="width:50px" />
+			<col style="width:85px" />
+			<col style="width:50px" />
+			<col style="width:50px" />
+			<col style="width:85px" />
+			<col style="width:100px" />
+		</colgroup>
+		<thead>
+			<tr>
+				<th colspan="2" rowspan="2"  style="background-color:#eaf4ff">구분</th>
+				<th colspan="3" style="background-color:#eaf4ff">민원건수</th>
+				<th colspan="3" style="background-color:#eaf4ff">환산건수<br />(보유계약 십만건 당)</th>
+				<th rowspan="2"  style="background-color:#eaf4ff">비고</th>
+			</tr>
+			<tr>
+				<th>전분기</th>
+				<th>당분기</th>
+				<th>증감률(%)</th>
+				<th>전분기</th>
+				<th>당분기</th>
+				<th>증감률(%)</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					메리츠화재
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">70</td>
+				<td class="ar">105</td>
+				<td class="ar">50.00</td>
+				<td class="ar">30.58</td>
+				<td class="ar">38.88</td>
+				<td class="ar">27.15</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">1,335</td>
+				<td class="ar">1,330</td>
+				<td class="ar">-0.37</td>
+				<td class="ar">9.56</td>
+				<td class="ar">9.43</td>
+				<td class="ar">-1.34</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">1</td>
+				<td class="ar">3</td>
+				<td class="ar">200.0</td>
+				<td class="ar">0.91</td>
+				<td class="ar">2.76</td>
+				<td class="ar">202.05</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">162</td>
+				<td class="ar">164</td>
+				<td class="ar">1.23</td>
+				<td class="ar">15.95</td>
+				<td class="ar">16.38</td>
+				<td class="ar">2.70</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">53</td>
+				<td class="ar">174</td>
+				<td class="ar">228.30</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					한화손보
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">16</td>
+				<td class="ar">24</td>
+				<td class="ar">50</td>
+				<td class="ar">4.91</td>
+				<td class="ar">7.19</td>
+				<td class="ar">46.44</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">483</td>
+				<td class="ar">400</td>
+				<td class="ar">-17.18</td>
+				<td class="ar">8.01</td>
+				<td class="ar">6.58</td>
+				<td class="ar">-17.85</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">5</td>
+				<td class="ar">5</td>
+				<td class="ar">0</td>
+				<td class="ar">6.86</td>
+				<td class="ar">7.17</td>
+				<td class="ar">4.52</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">120</td>
+				<td class="ar">115</td>
+				<td class="ar">-4.17</td>
+				<td class="ar">12.91</td>
+				<td class="ar">12.34</td>
+				<td class="ar">-4.42</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">26</td>
+				<td class="ar">19</td>
+				<td class="ar">-26.92</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					롯데손보
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">15</td>
+				<td class="ar">13</td>
+				<td class="ar">-13.33</td>
+				<td class="ar">31.85</td>
+				<td class="ar">31.82</td>
+				<td class="ar">-0.09</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">277</td>
+				<td class="ar">296</td>
+				<td class="ar">6.86</td>
+				<td class="ar">9.60</td>
+				<td class="ar">9.89</td>
+				<td class="ar">3.02</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">2</td>
+				<td class="ar">3</td>
+				<td class="ar">50</td>
+				<td class="ar">2.43</td>
+				<td class="ar">3.76</td>
+				<td class="ar">54.73</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">35</td>
+				<td class="ar">28</td>
+				<td class="ar">-20</td>
+				<td class="ar">18.89</td>
+				<td class="ar">15.71</td>
+				<td class="ar">-16.83</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">7</td>
+				<td class="ar">9</td>
+				<td class="ar">28.57</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					MG손보
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">8</td>
+				<td class="ar">4</td>
+				<td class="ar">-50</td>
+				<td class="ar">12.24</td>
+				<td class="ar">6.28</td>
+				<td class="ar">-48.69</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">258</td>
+				<td class="ar">216</td>
+				<td class="ar">-16.28</td>
+				<td class="ar">17.46</td>
+				<td class="ar">14.73</td>
+				<td class="ar">-15.64</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">3</td>
+				<td class="ar">5</td>
+				<td class="ar">66.67</td>
+				<td class="ar">9.01</td>
+				<td class="ar">12.24</td>
+				<td class="ar">35.85</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					흥국화재
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">16</td>
+				<td class="ar">6</td>
+				<td class="ar">-62.5</td>
+				<td class="ar">30.97</td>
+				<td class="ar">11.92</td>
+				<td class="ar">-61.50</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">450</td>
+				<td class="ar">401</td>
+				<td class="ar">-10.89</td>
+				<td class="ar">11.15</td>
+				<td class="ar">9.94</td>
+				<td class="ar">-10.88</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">8</td>
+				<td class="ar">1</td>
+				<td class="ar">-87.5</td>
+				<td class="ar">12.70</td>
+				<td class="ar">1.66</td>
+				<td class="ar">-86.97</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">17</td>
+				<td class="ar">11</td>
+				<td class="ar">-35.29</td>
+				<td class="ar">7.97</td>
+				<td class="ar">5.23</td>
+				<td class="ar">-34.34</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">8</td>
+				<td class="ar">10</td>
+				<td class="ar">25.00</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					삼성화재
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">126</td>
+				<td class="ar">121</td>
+				<td class="ar">-3.97</td>
+				<td class="ar">2.34</td>
+				<td class="ar">2.14</td>
+				<td class="ar">-8.55</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">815</td>
+				<td class="ar">796</td>
+				<td class="ar">-2.33</td>
+				<td class="ar">5.60</td>
+				<td class="ar">5.40</td>
+				<td class="ar">-3.57</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">17</td>
+				<td class="ar">19</td>
+				<td class="ar">11.76</td>
+				<td class="ar">2.08</td>
+				<td class="ar">2.38</td>
+				<td class="ar">14.42</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">1,213</td>
+				<td class="ar">1,193</td>
+				<td class="ar">-1.65</td>
+				<td class="ar">17.13</td>
+				<td class="ar">16.75</td>
+				<td class="ar">-2.22</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">57</td>
+				<td class="ar">59</td>
+				<td class="ar">3.51</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					현대해상
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">83</td>
+				<td class="ar">93</td>
+				<td class="ar">12.05</td>
+				<td class="ar">15.26</td>
+				<td class="ar">18.32</td>
+				<td class="ar">20.01</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">1,113</td>
+				<td class="ar">1,009</td>
+				<td class="ar">-9.34</td>
+				<td class="ar">7.58</td>
+				<td class="ar">6.77</td>
+				<td class="ar">-10.67</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">19</td>
+				<td class="ar">20</td>
+				<td class="ar">5.26</td>
+				<td class="ar">4.37</td>
+				<td class="ar">4.72</td>
+				<td class="ar">7.82</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">856</td>
+				<td class="ar">861</td>
+				<td class="ar">0.58</td>
+				<td class="ar">16.73</td>
+				<td class="ar">16.64</td>
+				<td class="ar">-0.51</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">53</td>
+				<td class="ar">48</td>
+				<td class="ar">-9.43</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					KB손보
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">38</td>
+				<td class="ar">60</td>
+				<td class="ar">57.89</td>
+				<td class="ar">3.72</td>
+				<td class="ar">5.75</td>
+				<td class="ar">54.57</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">1,159</td>
+				<td class="ar">1,248</td>
+				<td class="ar">7.68</td>
+				<td class="ar">10.24</td>
+				<td class="ar">10.87</td>
+				<td class="ar">6.15</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">2</td>
+				<td class="ar">4</td>
+				<td class="ar">100</td>
+				<td class="ar">0.64</td>
+				<td class="ar">1.33</td>
+				<td class="ar">107.81</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">650</td>
+				<td class="ar">672</td>
+				<td class="ar">3.38</td>
+				<td class="ar">18.74</td>
+				<td class="ar">19.05</td>
+				<td class="ar">1.65</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">60</td>
+				<td class="ar">67</td>
+				<td class="ar">11.67</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					DB손보
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">57</td>
+				<td class="ar">119</td>
+				<td class="ar">108.77</td>
+				<td class="ar">5.89</td>
+				<td class="ar">12.15</td>
+				<td class="ar">106.28</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">953</td>
+				<td class="ar">871</td>
+				<td class="ar">-8.6</td>
+				<td class="ar">6.22</td>
+				<td class="ar">5.60</td>
+				<td class="ar">-9.97</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">20</td>
+				<td class="ar">13</td>
+				<td class="ar">-35</td>
+				<td class="ar">5.96</td>
+				<td class="ar">4.01</td>
+				<td class="ar">-32.72</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">846</td>
+				<td class="ar">754</td>
+				<td class="ar">-10.87</td>
+				<td class="ar">16.86</td>
+				<td class="ar">14.85</td>
+				<td class="ar">-11.92</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">99</td>
+				<td class="ar">108</td>
+				<td class="ar">9.09</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					서울보증
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">73</td>
+				<td class="ar">79</td>
+				<td class="ar">8.22</td>
+				<td class="ar">0.23</td>
+				<td class="ar">0.25</td>
+				<td class="ar">8.7</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">0</td>
+				<td class="ar">2</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					AXA손보
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">16</td>
+				<td class="ar">12</td>
+				<td class="ar">-25.00</td>
+				<td class="ar">3.43</td>
+				<td class="ar">2.73</td>
+				<td class="ar">-20.46</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">26</td>
+				<td class="ar">28</td>
+				<td class="ar">7.69</td>
+				<td class="ar">3.52</td>
+				<td class="ar">3.67</td>
+				<td class="ar">4.38</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">173</td>
+				<td class="ar">196</td>
+				<td class="ar">13.29</td>
+				<td class="ar">19.66</td>
+				<td class="ar">22.42</td>
+				<td class="ar">14.05</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">10</td>
+				<td class="ar">27</td>
+				<td class="ar">170.00</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					하나손보
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">4</td>
+				<td class="ar">6</td>
+				<td class="ar">50</td>
+				<td class="ar">11.85</td>
+				<td class="ar">3.64</td>
+				<td class="ar">-69.28</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">18</td>
+				<td class="ar">22</td>
+				<td class="ar">22.22</td>
+				<td class="ar">5.73</td>
+				<td class="ar">6.63</td>
+				<td class="ar">15.71</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">4</td>
+				<td class="ar">4</td>
+				<td class="ar">0</td>
+				<td class="ar">16.28</td>
+				<td class="ar">16.50</td>
+				<td class="ar">1.35</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">62</td>
+				<td class="ar">43</td>
+				<td class="ar">-30.65</td>
+				<td class="ar">11.86</td>
+				<td class="ar">8.20</td>
+				<td class="ar">-30.86</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">1</td>
+				<td class="ar">1</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					AIG손보
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">24</td>
+				<td class="ar">16</td>
+				<td class="ar">-33.33</td>
+				<td class="ar">6.39</td>
+				<td class="ar">4.38</td>
+				<td class="ar">-31.42</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">46</td>
+				<td class="ar">40</td>
+				<td class="ar">-13.04</td>
+				<td class="ar">4.38</td>
+				<td class="ar">3.82</td>
+				<td class="ar">-12.63</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">3</td>
+				<td class="ar">4</td>
+				<td class="ar">33.33</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					라이나손보(에이스손보)
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">9</td>
+				<td class="ar">6</td>
+				<td class="ar">-33.33</td>
+				<td class="ar">3.64</td>
+				<td class="ar">2.50</td>
+				<td class="ar">-31.32</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">45</td>
+				<td class="ar">51</td>
+				<td class="ar">13.33</td>
+				<td class="ar">2.34</td>
+				<td class="ar">2.69</td>
+				<td class="ar">14.96</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">1</td>
+				<td class="ar">0</td>
+				<td class="ar">-100</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					신한EZ손해보험
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">3</td>
+				<td class="ar">3</td>
+				<td class="ar">0</td>
+				<td class="ar">4.58</td>
+				<td class="ar">4.63</td>
+				<td class="ar">1.09</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					캐롯손해보험
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">8</td>
+				<td class="ar">6</td>
+				<td class="ar">-25</td>
+				<td class="ar">12.82</td>
+				<td class="ar">9.02</td>
+				<td class="ar">-29.64</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">78</td>
+				<td class="ar">67</td>
+				<td class="ar">-14.1</td>
+				<td class="ar">15.58</td>
+				<td class="ar">12.47</td>
+				<td class="ar">-19.96</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">3</td>
+				<td class="ar">2</td>
+				<td class="ar">-33.33</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td rowspan="5" class="ac">
+					농협손보
+				</td>
+				<td class="ac">일반보험</td>
+				<td class="ar">37</td>
+				<td class="ar">28</td>
+				<td class="ar">-24.32</td>
+				<td class="ar">4.33</td>
+				<td class="ar">3.22</td>
+				<td class="ar">-25.64</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기보장성보험</td>
+				<td class="ar">102</td>
+				<td class="ar">109</td>
+				<td class="ar">6.86</td>
+				<td class="ar">3.39</td>
+				<td class="ar">3.59</td>
+				<td class="ar">5.9</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">장기저축성보험</td>
+				<td class="ar">5</td>
+				<td class="ar">3</td>
+				<td class="ar">-40</td>
+				<td class="ar">2.24</td>
+				<td class="ar">1.53</td>
+				<td class="ar">-31.7</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">자동차보험</td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td class="ar">0</td>
+				<td class="ar">0</td>
+				<td class="ar"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td class="ac">기타</td>
+				<td class="ar">15</td>
+				<td class="ar">36</td>
+				<td class="ar">140</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td class="ar">-</td>
+				<td></td>
+			</tr>
+			
+		</tbody>
+	</table>
+</div>

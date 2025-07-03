@@ -1,0 +1,8 @@
+/* Leaflet 지도 스타일 */
+#leafletmap {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
