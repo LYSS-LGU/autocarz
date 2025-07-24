@@ -336,3 +336,4 @@ pip install opencv-python==4.12.0.88```
 
 ````
 # autocarz-Supabase
+# autocarz-Supabase
