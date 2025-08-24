@@ -335,6 +335,3 @@ pip install opencv-python==4.12.0.88```
   - A. 반드시 Flask 서버(`http://localhost:5000`)를 통해 접속해야 합니다. HTML 파일을 직접 열면(Live Server 등) 동작하지 않습니다.
 
 ````
-# autocarz-Supabase
-# autocarz-Supabase
-# autocarz-Supabase
